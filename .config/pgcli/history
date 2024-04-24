@@ -1,0 +1,24 @@
+
+# 2024-04-20 18:34:42.347181
++create user shelfer with password '43wM.Xrsx4O'
+
+# 2024-04-20 18:34:51.984329
++create dat
+
+# 2024-04-20 18:35:11.352447
++create database shelf-tst;
+
+# 2024-04-20 18:35:15.638862
++create database shelftst;
+
+# 2024-04-20 18:35:22.729046
++gra
+
+# 2024-04-20 18:35:49.386967
++grant all privileges on database shelftst to shelftst;
+
+# 2024-04-20 18:36:07.460092
++grant all privileges on database shelftst to shelfer;
+
+# 2024-04-20 18:36:41.225070
++exit
